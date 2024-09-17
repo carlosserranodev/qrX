@@ -1,16 +1,14 @@
-   # Python
-   __pycache__/
-   *.py[cod]
-   *.pyo
-   *.pyd
-   *.db
-   *.sqlite3
-   *.log
-
-   # Entorno virtual
-   venv/
-   .env
-
-   # Archivos de configuración de IDE
-   .idea/
-   .vscode/
+# Python
+pycache/
+.py[cod]
+.pyo
+.pyd
+.db
+.sqlite3
+.log
+# Entorno virtual
+venv/
+.env
+# Archivos de configuración de IDE
+.idea/
+.vscode/
