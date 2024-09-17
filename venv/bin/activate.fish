@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/carlosserranogarcia/Desktop/Dev/PythonProjects/QRGenerator/qr_generator_project/venv"
+set -gx VIRTUAL_ENV "/Users/carlosserranogarcia/Desktop/Dev/ReactxDjango/qr_generator_projectX/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/carlosserranogarcia/Desktop/Dev/PythonProjects/QRGenerator/qr_generator_project/venv"
+VIRTUAL_ENV="/Users/carlosserranogarcia/Desktop/Dev/ReactxDjango/qr_generator_projectX/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
